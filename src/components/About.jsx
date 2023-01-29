@@ -17,7 +17,7 @@ const about = () => {
         <div>
             <p>
             I think that I have reached the maximum with theoretical knowledge, after which practical experience is needed,
-            therefore i decided to create my own Porfolio site to gain knowledge and not only.I have been engaged in programming for a long time, but I have been actively learning it for a few months.
+            therefore I decided to create my own Porfolio site to gain knowledge and not only.I have been engaged in programming for a long time, but I have been actively learning it for a few months.
 
 
             </p>
