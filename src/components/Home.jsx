@@ -15,12 +15,15 @@ import {Link} from 'react-scroll'
           <h2 className='items-center flex coltext-4xl sm:text-3xl font-bold text-[#ccd6f6]'>I'm junior front-end Web Developer </h2>
           
           <div className='mt-3'>
-            <button className='mt-5 lg:mb-10 text-white group border-2 px-6 py-1 my-3 flex items-center hover:bg-red-600 hover:border-black object-center'>
-              <Link to="skills" smooth={true} duration={500}>View Skills</Link>
+            
+              <Link to="skills" smooth={true} duration={500}>
+              <button className='mt-5 lg:mb-10 text-white group border-2 px-6 py-1 my-3 flex items-center hover:bg-red-600 hover:border-black object-center'>View Skills
               <span className='group-hover:rotate-90 duration-500'>
                 <HiArrowNarrowRight className='ml-3 hover:'/>
               </span>
             </button>
+              </Link>
+ 
           </div>
         </div>
       </div>
